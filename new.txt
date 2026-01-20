@@ -1,3 +1,6 @@
 i am trying to add a new file
 
+
+I added this in secondary branch only
+i made edit in the sec branch
 I added this in the main branch
